@@ -1,0 +1,8 @@
+{
+  "name": "Chorar Mela",
+  "description": "Bengali children rhymes and poems app featuring classic Bangla nursery rhymes with audio recital, charming illustrations, and interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
